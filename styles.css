@@ -50,6 +50,10 @@ footer {
 
 }
 
+.i{
+  background-image: url("./images/snare.png");
+}
+
 .set {
   margin: 10% auto;
 }
